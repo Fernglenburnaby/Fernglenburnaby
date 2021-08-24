@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: 
 email: safranekvit@gmail.com 
-Twitter handle: @ice_wine_tea
+Twitter handle: @ice_wine_tea ; 
 Telegram handle: @Vespertiliocap
 
 <!---
