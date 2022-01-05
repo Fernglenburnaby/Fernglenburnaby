@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: 
-email: safranekvit@gmail.com 
-Twitter handle: @ice_wine_tea ; 
-Telegram handle: @Vespertiliocap
+
+Twitter handle: @Cryptozilla_mg 
+Telegram handle: @MaxTheo
 
 <!---
 Fernglenburnaby/Fernglenburnaby is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
